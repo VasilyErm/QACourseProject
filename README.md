@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/jmtvktn09xpe15pg?svg=true)](https://ci.appveyor.com/project/VasilyErm/qacourseproject)
